@@ -1,6 +1,5 @@
-Here's a detailed description of the dashboard for the `README.md` file:
+![image](https://github.com/nrug13/Mobil-Tarifl-r/assets/101041926/f4d0e951-14f8-436f-9ffb-f6e32a8e2e15)
 
----
 
 ## Mobile Tariffs Dashboard
 
