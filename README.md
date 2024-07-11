@@ -50,3 +50,7 @@ The main table displays detailed information about each mobile tariff plan, incl
 3. **Tariff Details**: Review the detailed tariff table to compare the specific features and prices of different tariff plans.
 
 This dashboard allows users to efficiently compare and select the best mobile tariff plan according to their specific needs and preferences.
+
+
+
+Other Contributors: Aidan Ismayilova, Asmar Baghirova
