@@ -53,4 +53,4 @@ This dashboard allows users to efficiently compare and select the best mobile ta
 
 
 
-Other Contributors: Aidan Ismayilova, Asmar Baghirova
+Other Contributors: Aida Ismayilova, Asmar Baghirova
